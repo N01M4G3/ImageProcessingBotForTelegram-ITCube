@@ -1,0 +1,2 @@
+# ImageProcessingBotForTelegram-ITCube
+Graduation project
